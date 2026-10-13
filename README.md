@@ -82,6 +82,7 @@
 | 👀 | [Tale](https://github.com/tale-project/tale) | sandbox, orchestration, kanban, self-hosted | Open-source project workspace for teams and AI agents. Assign tasks, coordinate agents in persistent sandboxes, and review results together. Self-hosted or managed cloud. MIT licensed. |
 | 👀 | [Helicon](https://github.com/HarjjotSinghh/helicon) | muse-code, desktop, vscode, diffs, approvals | Open-source desktop app and VS Code extension for Meta's Muse Code CLI, with threads, inline diffs and approvals on Windows, macOS and Linux. Unofficial, not affiliated with Meta. |
 | 👀 | [Oh My Android](https://github.com/ateymoori/oh-my-android) | mcp, android-emulator, adb, macos | Android emulator & ADB GUI for Mac: dark mode, font size, RTL, TalkBack, network, GPS, Layout Inspector in dp. Built-in MCP server lets Claude Code, Codex and Cursor drive the emulator. |
+| 👀 | [subagent-tuner](https://github.com/Kruhlikau/subagent-tuner) | claude-code, subagents, model-selection, effort | Claude Code mod: picks the model and reasoning effort of every subagent |
 
 ## Agent Instructions
 
